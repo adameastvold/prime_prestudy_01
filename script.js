@@ -16,7 +16,5 @@ function subtract (a){
 
 hey();
 
-add(multiply(subtract(2)));
-
 console.log("The result of my multiple function combination is " + add(multiply(subtract(2))) + ".");
 
